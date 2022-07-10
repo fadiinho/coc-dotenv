@@ -1,10 +1,14 @@
 {
   "name": "coc-dotenv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "author": "fadiinho <ffadiinho@gmail.com>",
   "license": "MIT",
   "main": "lib/index.js",
+  "homepage": "https://github.com/fadiinho/coc-dotenv",
+  "repository": {
+    "url":  "git@github.com:fadiinho/coc-dotenv.git"
+  },
   "keywords": [
     "coc.nvim",
     "dotenv",
