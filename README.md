@@ -8,6 +8,9 @@ Extension to auto-complete the `.env` file variables.
 
 ## License
 
+## Thanks to
+[fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) to my inspiration.
+
 MIT
 
 ---
